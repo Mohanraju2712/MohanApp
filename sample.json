@@ -12,6 +12,18 @@
 		 "Place":"Poombarai",
 		 "Nearby":"Kodaikanal",
 		 "District":"Dindugul"
-		}
+		},
+		{
+		"id":"3",
+		 "Place":"poondi",
+		 "Nearby":"Kodaikanal",
+		 "District":"Dindugul"
+		},
+		{
+		"id":"4",
+		 "Place":"Kavunji",
+		 "Nearby":"Kodaikanal",
+		 "District":"Dindugul"
+		},
 	]
 }
