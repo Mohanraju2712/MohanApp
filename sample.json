@@ -24,6 +24,12 @@
 		 "Place":"Kavunji",
 		 "Nearby":"Kodaikanal",
 		 "District":"Dindugul"
+		},
+		{
+		"id":"5",
+		 "Place":"Kookal",
+		 "Nearby":"Kodaikanal",
+		 "District":"Dindugul"
 		}
 	]
 }
