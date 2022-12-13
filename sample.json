@@ -1,0 +1,17 @@
+{
+	"trips":[
+
+		{
+		"id":"1",
+		 "Place":"Mannavanur",
+		 "Nearby":"Kodaikanal",
+		 "District":"Dindugul"
+		},
+		{
+		"id":"2",
+		 "Place":"Poombarai",
+		 "Nearby":"Kodaikanal",
+		 "District":"Dindugul"
+		}
+	]
+}
